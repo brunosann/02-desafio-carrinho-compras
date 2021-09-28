@@ -21,3 +21,7 @@
 - NodeJs v14.17
 - Yarn 1.22
 - **obs:** pode usar no npm no lugar do yarn
+
+### Andamento do desafio
+- [ ] Desenvolvimento
+- [x] Finalizado
